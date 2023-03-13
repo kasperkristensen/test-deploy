@@ -1,0 +1,8 @@
+"Build manifest does not match current build.",
+        {
+  "base": "/app",
+  "buildDir": "build"
+},
+        {
+  "base": "/app"
+}
